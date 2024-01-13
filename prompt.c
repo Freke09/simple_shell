@@ -6,5 +6,5 @@
 
 void display_prompt(void)
 {
-	freke_printf("freke_shell($) ");
+	freke_printf("$ ");
 }
